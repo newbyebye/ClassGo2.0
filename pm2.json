@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "ClassGo2.0",
+    "script": "www/production.js",
+    "cwd": "/Users/lynliyan/develop/git/ClassGo2.0",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
